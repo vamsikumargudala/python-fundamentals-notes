@@ -1,15 +1,19 @@
 # Python Zero Course
 
-Personal study notes from a Python fundamentals course at BITS Pilani. Condensed, beginner-friendly notebooks covering Python basics to control flow.
+Python fundamentals course from BITS Pilani. Contains original lecture notebooks and condensed personal notes.
 
 ---
 
 ## Folder Structure
 
 ```
-├── My Notes/           # Study notes (12 notebooks)
-│   ├── 01-06              # Basics: print, input, strings, variables, data types
-│   └── 07-12              # Data structures & control flow
+├── Sessions/           # Original lecture notebooks from professor
+│   ├── Session 1 Notes/    # Basics: print, input, strings, variables
+│   └── Session 2 Notes/    # Data structures & control flow
+│
+├── My Notes/           # Condensed personal study notes
+│   ├── 01-06              # Session 1 topics
+│   └── 07-12              # Session 2 topics
 ```
 
 ---
