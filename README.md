@@ -73,3 +73,5 @@ For detailed setup instructions, see [PROJECT_SETUP_GUIDE.md](PROJECT_SETUP_GUID
 ## Acknowledgment
 
 These notes are based on lectures from BITS Pilani's Python course.
+
+Original course materials: [BITS Pilani Taxila](https://taxila-aws.bits-pilani.ac.in/course/view.php?id=16745) (requires BITS login)
