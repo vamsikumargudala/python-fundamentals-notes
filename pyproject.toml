@@ -1,8 +1,11 @@
 [project]
-name = "python-zero-course"
+name = "python-fundamentals-bits"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python fundamentals course notes from BITS Pilani"
 readme = "README.md"
+authors = [
+    { name = "Vamsikumar Gudala", email = "vamsikumar196@gmail.com" }
+]
 requires-python = ">=3.10"
 dependencies = [
     "jupyter>=1.1.1",
