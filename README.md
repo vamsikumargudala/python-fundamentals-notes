@@ -44,6 +44,14 @@ Python fundamentals course from BITS Pilani. Contains original lecture notebooks
 
 ---
 
+## Prerequisites
+
+- **Python 3.10+** - [Download](https://www.python.org/downloads/)
+- **UV** - [Install](https://docs.astral.sh/uv/getting-started/installation/)
+- **VS Code** with Jupyter extension
+
+---
+
 ## Quick Start
 
 ```bash
