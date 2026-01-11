@@ -45,9 +45,11 @@ Thumbs.db
 
 # UV
 .uv/
-uv.lock
 .python-version
 .venv/
+
+# Docs
+PROJECT_SETUP_GUIDE.md
 
 # ppts
 *.pptx

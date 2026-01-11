@@ -47,30 +47,12 @@ Python fundamentals course from BITS Pilani. Contains original lecture notebooks
 ## Quick Start
 
 ```bash
-# Clone and setup
-git clone <repo-url>
-cd Python_Zero_Course
-
-# Create virtual environment (using UV)
-uv venv
-source .venv/Scripts/activate  # Git Bash on Windows
-# or: .venv\Scripts\activate   # CMD/PowerShell
-
-# Install dependencies
+git clone https://github.com/vamsikumargudala/python-fundamentals-bits.git
+cd python-fundamentals-bits
 uv sync
 ```
 
 Open any `.ipynb` file in VS Code and select the `.venv` kernel.
-
----
-
-## Tools Used
-
-- **UV** - Fast Python package manager
-- **Jupyter** - Interactive notebooks
-- **VS Code** - Editor with Jupyter extension
-
-For detailed setup instructions, see [PROJECT_SETUP_GUIDE.md](PROJECT_SETUP_GUIDE.md).
 
 ---
 
