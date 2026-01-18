@@ -54,3 +54,8 @@ PROJECT_SETUP_GUIDE.md
 # ppts
 *.pptx
 *.ppt
+
+# metting transcripts
+*.docx
+*.doc
+

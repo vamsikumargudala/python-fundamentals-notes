@@ -1,0 +1,8 @@
+cat
+dog
+elephant
+ant
+hippopotamus
+bee
+cat
+dog
